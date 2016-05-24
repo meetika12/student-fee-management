@@ -1,0 +1,28 @@
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\student.csprojResolveAssemblyReference.cache
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Index1.resources
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\student.csproj.GenerateResource.Cache
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\PRATIKSHA\Desktop\pratiksha\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Update.resources
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\student.csprojResolveAssemblyReference.cache
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Update.resources
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Index1.resources
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\.net prgrms\apna .net project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\student.csproj.GenerateResource.Cache
